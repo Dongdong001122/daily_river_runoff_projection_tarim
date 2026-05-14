@@ -5,3 +5,5 @@ We have also tried the projection models with xlsm and XGBoost with the same par
 Other notebook in the project is for data preprocessing and visualization.
 
 Note: We found that the model perform better if we set the ratio of validation period with 20% than that with 20%. And only if the river runoff and basinal evapotranspiration are projected by the model together can the model project for the long period with good performance in our study.
+
+For more information, please contact the first author with 201914030135@stu.sdnu.edu.cn.
